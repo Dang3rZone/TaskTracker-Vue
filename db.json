@@ -16,19 +16,13 @@
       "id": "3",
       "text": "Food shopping",
       "day": "March 7th at 2:00pm",
-      "reminder": false
-    },
-    {
-      "id": "mItjvJI"
-    },
-    {
-      "id": "FPI_fRc"
+      "reminder": true
     },
     {
       "id": 11912,
       "text": "test 3",
       "day": "Wed May 12",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
